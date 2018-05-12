@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/695
     wikipedia: http://en.wikipedia.org/wiki/Mary_Johnston
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14697#Lewis-Rand
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-01-15'
 gutenberg_type: Text
